@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="motion-preview" width="846" height="30" viewBox="0 0 846 30" aria-hidden="true">
+  <style>
+    .pulse { animation: trace 3.2s linear infinite; }
+    @keyframes trace {
+      0% { stroke-dashoffset: 1; opacity: 0; }
+      8% { opacity: 1; }
+      68% { opacity: 1; }
+      77%, 100% { stroke-dashoffset: -.13; opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) { :root:not(:target) .pulse { display: none; } }
+  </style>
+  <defs>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop stop-color="#ffab29" stop-opacity=".75"/>
+      <stop offset=".42" stop-color="#aa671f" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#aa671f" stop-opacity=".14"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 15.5h177l7-7h54l7 7h601" fill="none" stroke="url(#signal)"/>
+  <path class="pulse" d="M0 15.5h177l7-7h54l7 7h601" pathLength="1"
+        fill="none" stroke="#ffd486" stroke-width="2" stroke-dasharray=".1 1"
+        stroke-linecap="round" opacity="0"/>
+  <path d="M0 15.5h46m-46 4h27m158-11h18" stroke="#ffad2b" stroke-opacity=".62"/>
+  <path d="M251 12h7v7h-7zm12 2h3v3h-3zm8 0h3v3h-3z" fill="#ffab29" fill-opacity=".68"/>
+  <path d="M821 11v9m8-7v5m8-7v9m8-7v5" stroke="#a66521" stroke-opacity=".52"/>
+</svg>
