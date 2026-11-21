@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <picture>
     <img width="680" src="./terminal-header-animated.png" alt="hetasshi">
   </picture>
@@ -14,7 +14,7 @@ I build **Windows and Linux desktop applications**, **web interfaces**, and **ba
 
 `Rust` · `C++` · `C` · `Zig` · `Go` · `C#` · `Python` · `Java` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `Tauri` · `PostgreSQL` · `WebSocket` · `Docker` · etc.
 
-<p align="center">
+<p align="left">
   <picture>
     <img width="680" src="./amber-horror-final.png" alt="A woman in dark makeup and a snow leopard cub with a raised paw">
   </picture>
