@@ -4,15 +4,15 @@
   </picture>
 </p>
 
-### Software Developer & Designer | Desktop, Web & Backend
+### Software Developer & Designer | _Desktop, Web & Backend_
 
-I build Windows and Linux desktop applications, web interfaces, and backend services. I design software architecture, develop and train AI models, and reverse-engineer software.
+I build **Windows and Linux desktop applications**, **web interfaces**, and **backend services**. I design <ins>software architecture</ins>, *develop and train AI models*, and *reverse-engineer software*.
 
 <picture>
   <img src="./terminal-divider-live.svg" alt="">
 </picture>
 
-Rust · C++ · C · Zig · Go · C# · Python · Java · TypeScript · JavaScript · React · Node.js · Tauri · PostgreSQL · WebSocket · Docker · etc.
+`Rust` · `C++` · `C` · `Zig` · `Go` · `C#` · `Python` · `Java` · `TypeScript` · `JavaScript` · `React` · `Node.js` · `Tauri` · `PostgreSQL` · `WebSocket` · `Docker` · etc.
 
 <p align="center">
   <picture>
